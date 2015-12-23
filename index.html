@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% for tool in site.data.tools %}
+    <div class="tool">
+      <a href="{{ tool.url }}">{{ tool.title }}</a> - 
+      {{ tool.description }} 
+      {% if tool.source %}<a href="{{ tool.source }}" target="_blank"><em>open source</em></a>{% endif %}
+      <br/><br/>
+    </div>
+  {% endfor %}
+</div>
+
+
+
+
+
+
+{% comment %}
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
+{% endcomment %}
