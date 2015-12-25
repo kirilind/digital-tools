@@ -3,14 +3,192 @@
   description: >
     Online tool for discussion and collaborative decision-making.
   tags: discussion decision-making
-  img: 
+  img: loomio.png
   url: http://loomio.org
   source: https://github.com/loomio/loomio
+  wikipedia_id: Loomio
 
 - title: Twitter
   permalink: /twitter/
   description: >
     
   tags: discussion
-  img: 
+  img: Twitter_logo_blue.png
   url: http://twitter.com
+  wikipedia_id: Twitter
+
+- title: Trello
+  permalink: /trello/
+  description: >
+    Trello is a web-based project management application 
+    using the kanban paradigm for managing boards, lists, and cards.
+  tags: kanban workflow project-management task-management
+  img: Trello_Logo.png
+  img2:
+  url: http://trello.com
+  wikipedia_id: Trello
+  business_model: freemium
+
+- title: Doodle
+  permalink: /doodle/
+  description: >
+    Doodle is an Internet calendar tool for time management, and coordinating meetings. 
+  tags: 
+  img: DoodleLogo1600.png
+  url: http://www.doodle.com
+  wikipedia_id: Doodle.com
+
+...
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
+- title: 
+  permalink: /asd/
+  description: >
+    
+  tags: 
+  img: 
+  url: 
+
