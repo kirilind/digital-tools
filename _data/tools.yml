@@ -2,11 +2,12 @@
   permalink: /loomio/
   description: >
     Online tool for discussion and collaborative decision-making.
-  tags: discussion decision-making
+  tags: discussion decisionmaking governance
   img: loomio.png
   url: http://loomio.org
   source: https://github.com/loomio/loomio
   wikipedia_id: Loomio
+  usedby: ouishare
 
 - title: Twitter
   permalink: /twitter/
@@ -16,6 +17,7 @@
   img: Twitter_logo_blue.png
   url: http://twitter.com
   wikipedia_id: Twitter
+  usedby: ouishare
 
 - title: Trello
   permalink: /trello/
@@ -28,6 +30,7 @@
   url: http://trello.com
   wikipedia_id: Trello
   business_model: freemium
+  usedby: ouishare
 
 - title: Doodle
   permalink: /doodle/
@@ -37,158 +40,487 @@
   img: DoodleLogo1600.png
   url: http://www.doodle.com
   wikipedia_id: Doodle.com
+  usedby: ouishare
 
+- title: Google calendar
+  permalink: /google-calendar/
+  description: >
+    Google Calendar is a time-management web and mobile application created by Google.
+    Google Calendar allows multiple calendars to be created and shown in the same view. 
+    Each can be shared, either read-only or with full edit control, and either with specified 
+    people or with everyone (public calendars).
+  tags: calendar
+  img: Google_Calendar.png
+  url: https://www.google.com/calendar
+  wikipedia_id: Google_Calendar
+  usedby: ouishare
+
+- title: Eventbrite
+  permalink: /eventbrite/
+  description: >
+    Eventbrite is a global marketplace for live experiences that allows people to find and create events in 190 countries. 
+    The platform allows event organizers to plan, promote, and sell tickets to events (event management) and publish them 
+    across Facebook, Twitter and other social-networking tools directly from the site's interface.
+  tags: events ticketing attendance
+  img: eventbrite.jpg
+  url: https://www.eventbrite.com/
+  usedby: ouishare
+
+- title: Sched
+  permalink: /sched/
+  description: >
+    Event scheduling software, mobile apps and personal agenda builders with social networking for conferences and festivals
+  tags: events program
+  img: sched.png
+  url: https://sched.org/
+  usedby: ouishare
+
+- title: Facebook events
+  permalink: /facebook-events/
+  description: >
+    Facebook events offer a way for Facebook members to let friends know about upcoming events in their community 
+    and to organize social gatherings. Events require an event name, network, host name, event type, start time, 
+    location, and a guest list of friends invited. Events can be public or private. 
+  tags: events attendance
+  img: facebook-event.jpg
+  url: http://events.fb.com/
+  wikipedia_id: Facebook_features#Events
+  usedby: ouishare
+
+- title: Tito
+  permalink: /tito/
+  description: >
+    Tito is designed to provide a stress-free experience for organisers and attendees. 
+    We sweat the software details so that you can focus on planning a great event.
+  tags: events ticketing
+  img2: tito.svg
+  img: tito2.png
+  url: https://ti.to/
+
+- title: Meetup
+  permalink: /meetup/
+  description: >
+    Meetup is an online social networking portal that facilitates 
+    offline group meetings in various localities around the world. 
+    Meetup allows members to find and join groups unified by a common interest, 
+    such as politics, books, games, movies, health, 
+    pets, careers or hobbies. 
+  tags: events attendance 
+  img: Meetup_Logo_2015.png
+  img2:
+  url: http://www.meetup.com
+  wikipedia_id: Meetup_(website)
+  business_model: paid
+  usedby: ouishare
+
+- title: Slack
+  permalink: /slack/
+  description: >
+    Slack is a team collaboration tool offering persistent chat rooms organized by topic, 
+    as well as private groups and direct messaging. 
+    All content inside Slack is searchable, including files, conversations, and people. 
+    Slack integrates with a large number of third-party services and supports community-built integrations.
+  tags: workflow chat
+  img: Slack_Icon.png
+  img2:
+  url: http://slack.com
+  wikipedia_id: Slack_(software)
+  usedby: ouishare
+
+- title: Telegram
+  permalink: /telegram/
+  description: >
+    Decentralized chat application
+  tags: chat decentralized
+  img: 
+  img2:
+  url: 
+  usedby: ouishare
+
+- title: Google Hangouts
+  permalink: /hangouts/
+  description: >
+    
+  tags: video chat
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Talky
+  permalink: /talky/
+  description: >
+    
+  tags: video chat
+  img: 
+  url: http://talky.io
+
+- title: Skype
+  permalink: /skype/
+  description: >
+    
+  tags: video voice chat
+  img: 
+  url: http://www.skype.com
+
+- title: Firefox Hello
+  permalink: /firefox-hello/
+  description: >
+    
+  tags: video chat
+  img: 
+  url: 
+
+- title: Wordpress
+  permalink: /wordpress/
+  description: >
+    
+  tags: cms blog website
+  img: 
+  url: http://wordpress.com
+  usedby: ouishare
+
+- title: GitHub Pages
+  permalink: /github-pages/
+  description: >
+    
+  tags: hosting cms website
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Jekyll
+  permalink: /jekyll/
+  description: >
+    
+  tags: static-generator website
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Tumblr
+  permalink: /tumblr/
+  description: >
+    
+  tags: blog website
+  img: 
+  url: http://www.tumblr.com
+  usedby: ouishare
+
+- title: Drupal
+  permalink: /drupal/
+  description: >
+    
+  tags: cms website
+  img: 
+  url: 
+
+- title: Mediawiki
+  permalink: /mediawiki/
+  description: >
+    
+  tags: wiki website knowledge-management knowledge-mapping
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Transifex
+  permalink: /transifex/
+  description: >
+    
+  tags: website content localization
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: GitHub
+  permalink: /github/
+  description: >
+    
+  tags: version-management cvs task-management issue-tracker
+  img: 
+  url: http://github.com
+  usedby: ouishare
+
+- title: Google Analytics
+  permalink: /google-analytics/
+  description: >
+    
+  tags: website analytics
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Waffle
+  permalink: /waffle/
+  description: >
+    GitHub issues management display
+  tags: task-management issue-tracker
+  img: 
+  url: http://waffle.io
+  usedby: ouishare
+
+- title: Google Forms
+  permalink: /google-forms/
+  description: >
+    
+  tags: questionnaire
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Typeform
+  permalink: /typeform/
+  description: >
+    
+  tags: questionnaire
+  img: 
+  url: http://typeform.com
+  usedby: ouishare
+
+- title: Soundcloud
+  permalink: /soundcloud/
+  description: >
+    
+  tags: radio sound filesharing storage
+  img: 
+  url: http://soundcloud.com
+  usedby: ouishare
+
+- title: YouTube
+  permalink: /youtube/
+  description: >
+    
+  tags: video storage documentation
+  img: 
+  url: http://youtube.com
+  usedby: ouishare
+
+- title: Vimeo
+  permalink: /vimeo/
+  description: >
+    
+  tags: video storage documentation
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Google Drive
+  permalink: /google-drive/
+  description: >
+    
+  tags: storage filesharing documentation collaborative-editing
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Dropbox
+  permalink: /dropbox/
+  description: >
+    
+  tags: storage filesharing
+  img: 
+  url: http://dropbox.com
+  usedby: ouishare
+
+- title: WeTransfer
+  permalink: /wetransfer/
+  description: >
+    
+  tags: filesharing
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: BitTorrent Sync
+  permalink: /btsync/
+  description: >
+    
+  tags: filesharing
+  img: 
+  url: 
+  usedby: 
+
+- title: Etherpad
+  permalink: /etherpad/
+  description: >
+    
+  tags: collaborative-editing
+  img: 
+  url: 
+  usedby: 
+
+- title: Hackpad
+  permalink: /hackpad/
+  description: >
+    
+  tags: 
+  img: 
+  url: http://hackpad.com
+  usedby: ouishare
+
+- title: Hootsuite
+  permalink: /hootsuite/
+  description: >
+    
+  tags: communication workflow
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Mailchimp
+  permalink: /mailchimp/
+  description: >
+    
+  tags: communication newsletters
+  img: 
+  url: http://mailchimp.com
+  usedby: ouishare
+
+- title: Facebook groups
+  permalink: /facebook-groups/
+  description: >
+    
+  tags: communication discussion
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Facebook Pages
+  permalink: /facebook-pages/
+  description: >
+    
+  tags: communication
+  img: 
+  url: 
+  usedby: ouishare
+
+- title: Metamaps
+  permalink: /metamaps/
+  description: >
+    
+  tags: knowledge-mapping
+  img: 
+  url: http://metamaps.cc
+  usedby: ouishare
+
+- title: Storify
+  permalink: /storify/
+  description: >
+    
+  tags: communication news-aggregation newsletters
+  img: 
+  url: http://storify.com
+  usedby: ouishare
 ...
-
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
 - title: 
-  permalink: /asd/
+  permalink: /btsync/
   description: >
     
   tags: 
   img: 
   url: 
+  usedby: 
 
-- title: 
-  permalink: /asd/
-  description: >
-    
-  tags: 
-  img: 
-  url: 
 
-- title: 
-  permalink: /asd/
-  description: >
-    
-  tags: 
-  img: 
-  url: 
 
-- title: 
-  permalink: /asd/
-  description: >
-    
-  tags: 
-  img: 
-  url: 
 
-- title: 
-  permalink: /asd/
-  description: >
-    
-  tags: 
-  img: 
-  url: 
-
-- title: 
-  permalink: /asd/
-  description: >
-    
-  tags: 
-  img: 
-  url: 
-
-- title: 
-  permalink: /asd/
-  description: >
-    
-  tags: 
-  img: 
-  url: 
-
-- title: 
-  permalink: /asd/
-  description: >
-    
-  tags: 
-  img: 
-  url: 
 
